@@ -110,7 +110,7 @@ We welcome contributions from the community! To get started:​
 1. Create a new branch: `git checkout -b feature/your-feature-name`.​
 1. Make your changes and commit them: `git commit -m 'Add your message here'`.​
 1. Push to the branch: `git push origin feature/your-feature-name`.​
-1. Open a [pull request]().​
+1. Open a [pull request](https://github.com/StefanNieuwenhuis/open-rec-sphere/compare).​
 
 Please read our [Contributing Guide](https://github.com/stefannieuwenhuis/CONTRIBUTING.md) for more details on our code of conduct, and the process for submitting pull requests.
 
